@@ -1,24 +1,24 @@
 # OS / editor
 .DS_Store
 Thumbs.db
-.vscode/
-.idea/
+# .vscode/
+# .idea/
 
 # Python
-.venv/
-venv/
-__pycache__/
-*.pyc
+# .venv/
+# venv/
+# __pycache__/
+# *.pyc
 
 # Build / export artifacts
-site/
-dist/
-build/
+# site/
+# dist/
+# build/
 
 # Temporary files
-*.tmp
-*.bak
-~$*
+# *.tmp
+# *.bak
+# ~$*
 
 # Large binary exports (keep if needed)
 # *.pdf
